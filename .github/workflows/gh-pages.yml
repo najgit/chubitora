@@ -39,6 +39,7 @@ jobs:
       - run: npm install -g autoprefixer
       - run: npm install -g postcss-cli
       - run: npm install -g postcss
+      - run: hugo -D -d docs
       - run: hugo --minify
       
       - name: Deploy
