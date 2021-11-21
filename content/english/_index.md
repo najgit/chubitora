@@ -1,7 +1,7 @@
 ---
 ############################ Banner ##################################
 banner:
-  title : "Wellcome to the Simple way to structure all of your business."
+  title : "Wellcome to the Chubitora."
   subtitle : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, seaa  diam nonumy eirmod tempor invidunt ut labore et saldfore"
   character_image: "images/banner/character.webp"
   lamp_image: "images/banner/lamp.webp"
