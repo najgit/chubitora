@@ -39,7 +39,7 @@ jobs:
       - run: npm install -g autoprefixer
       - run: npm install -g postcss-cli
       - run: npm install -g postcss
-      - run: hugo --minify -d ./docs
+      - run: hugo --minify 
       - run: pwd && ls -latr
       
       - name: Deploy
@@ -47,4 +47,3 @@ jobs:
         if: ${{ github.ref == 'refs/heads/main' }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./
