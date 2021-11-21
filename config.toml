@@ -1,5 +1,4 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-
- 
+######################## default configuration ####################
+baseURL = "https://t2pcode.t2p.co.th:1000/chubitora/"
+title = "Chubitora - Wellcome to Chubitora Crypto"
+theme = "saasis"

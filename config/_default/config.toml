@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/saasis/"
-title = "Saasis - Hugo Saas Landing Theme"
+baseURL = "https://t2pcode.t2p.co.th:1000/chubitora/"
+title = "Chubitora - Wellcome to Chubitora Crypto"
 theme = "saasis"
 # post pagination
 paginate = "6"
